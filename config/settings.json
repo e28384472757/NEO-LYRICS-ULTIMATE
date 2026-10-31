@@ -1,0 +1,8 @@
+{
+  "spotify_player": "spotify",
+  "poll_interval_ms": 300,
+  "lyrics_provider": "lrclib",
+  "lyrics_timeout_seconds": 7,
+  "typewriter_chars_per_second": 18,
+  "theme": "shadow-emperor"
+}
